@@ -1,0 +1,6 @@
+com/capgemini/assignment/repository/ApplianceRepositoryUnitTest.class
+com/capgemini/assignment/controller/ApplianceControllerUnitTest.class
+com/capgemini/assignment/service/ApplicationServiceUnitTest.class
+com/capgemini/assignment/controller/ApplianceControllerIntegrationTest.class
+com/capgemini/assignment/AssignmentApplicationTests.class
+com/capgemini/assignment/service/ApplicationServiceIntegrationTest.class

@@ -1,0 +1,12 @@
+com/capgemini/assignment/domain/ApplianceDAO.class
+com/capgemini/assignment/exception/ApplianceNotFoundException.class
+com/capgemini/assignment/enums/Status.class
+com/capgemini/assignment/controller/CustomizedResponseEntityExceptionHandler.class
+com/capgemini/assignment/service/ApplianceServiceImpl.class
+com/capgemini/assignment/AssignmentApplication.class
+com/capgemini/assignment/error/ErrorDetails.class
+com/capgemini/assignment/model/Appliance.class
+com/capgemini/assignment/exception/ExceptionResponse.class
+com/capgemini/assignment/controller/ApplianceController.class
+com/capgemini/assignment/repository/ApplianceRepository.class
+com/capgemini/assignment/service/ApplianceService.class

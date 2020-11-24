@@ -1,0 +1,12 @@
+/Users/t_seths/MyWorkJava/assignment/src/main/java/com/capgemini/assignment/controller/CustomizedResponseEntityExceptionHandler.java
+/Users/t_seths/MyWorkJava/assignment/src/main/java/com/capgemini/assignment/model/Appliance.java
+/Users/t_seths/MyWorkJava/assignment/src/main/java/com/capgemini/assignment/service/ApplianceService.java
+/Users/t_seths/MyWorkJava/assignment/src/main/java/com/capgemini/assignment/exception/ApplianceNotFoundException.java
+/Users/t_seths/MyWorkJava/assignment/src/main/java/com/capgemini/assignment/AssignmentApplication.java
+/Users/t_seths/MyWorkJava/assignment/src/main/java/com/capgemini/assignment/error/ErrorDetails.java
+/Users/t_seths/MyWorkJava/assignment/src/main/java/com/capgemini/assignment/domain/ApplianceDAO.java
+/Users/t_seths/MyWorkJava/assignment/src/main/java/com/capgemini/assignment/exception/ExceptionResponse.java
+/Users/t_seths/MyWorkJava/assignment/src/main/java/com/capgemini/assignment/repository/ApplianceRepository.java
+/Users/t_seths/MyWorkJava/assignment/src/main/java/com/capgemini/assignment/enums/Status.java
+/Users/t_seths/MyWorkJava/assignment/src/main/java/com/capgemini/assignment/controller/ApplianceController.java
+/Users/t_seths/MyWorkJava/assignment/src/main/java/com/capgemini/assignment/service/ApplianceServiceImpl.java
